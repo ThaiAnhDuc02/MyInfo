@@ -1,4 +1,4 @@
-const RenderInfoEdit = (store, listElements) => {
+const  RenderInfoEdit = async (store, listElements) => {
     const {
         imgCoverElement,
         selectExperienceElement,
